@@ -6,3 +6,4 @@ Dies ist auch eine neue Zeile
 Eine Zeile von meinem Mac
 
 Noch eine Zeile von Linux hinzugefügt
+Eine weitere Zeile vom Mac hinzugefügt
